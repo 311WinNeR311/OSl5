@@ -1,0 +1,17 @@
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+SQLServer2016Media
+System Volume Information
+temp
+Users
+Windows
+$Recycle.Bin
+Blade and Soul
+Documents and Settings
+Intel
+logs
+oem
+PerfLogs
+Portable

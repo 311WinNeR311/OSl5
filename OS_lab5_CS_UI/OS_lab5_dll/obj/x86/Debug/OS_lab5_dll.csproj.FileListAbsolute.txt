@@ -1,0 +1,5 @@
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_dll\bin\x86\Debug\OS_lab5_dll.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_dll\bin\x86\Debug\OS_lab5_dll.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_dll\obj\x86\Debug\OS_lab5_dll.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_dll\obj\x86\Debug\OS_lab5_dll.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_dll\obj\x86\Debug\OS_lab5_dll.csprojResolveAssemblyReference.cache

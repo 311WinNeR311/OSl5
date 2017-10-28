@@ -1,0 +1,25 @@
+/*IntPtr pDll = NativeMethods.LoadLibrary(@"C:\\Users\\saveu\\Documents\\Visual Studio 2017\\Projects\\OS_lab5_CS_UI\\OS_lab5_dll\\bin\\x86\\Debug\\OS_lab5_dll.dll");
+                if (pDll == IntPtr.Zero)
+                {
+                    MessageBox.Show("There is no dll file \"OS_lab5_dll.dll\" in path: C:/Users/saveu/Documents/Visual Studio 2017/Projects/OS_lab5_CS_UI/OS_lab5_dll/bin/Debug/");
+                    button1.Enabled = true;
+                    return;
+                }
+
+                IntPtr pAddressOfFunctionToCall = NativeMethods.GetProcAddress(pDll, "SearchFolders");
+                if(pAddressOfFunctionToCall == IntPtr.Zero)
+                {
+                    MessageBox.Show("There is no function \"SearchFolders\" in dll file");
+                    button1.Enabled = true;
+                    return;
+                }
+
+                SearchingFoldersDelegate SearchFolders = (SearchingFoldersDelegate)Marshal.GetDelegateForFunctionPointer(
+                                                                                        pAddressOfFunctionToCall,
+                                                                                        typeof(SearchingFoldersDelegate));
+                */
+
+
+
+
+                //NativeMethods.FreeLibrary(pDll);

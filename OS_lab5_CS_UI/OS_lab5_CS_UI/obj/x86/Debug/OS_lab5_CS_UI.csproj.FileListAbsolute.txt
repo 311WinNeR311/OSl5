@@ -1,0 +1,8 @@
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\bin\x86\Debug\OS_lab5_CS_UI.exe.config
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\bin\x86\Debug\OS_lab5_CS_UI.exe
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\bin\x86\Debug\OS_lab5_CS_UI.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\obj\x86\Debug\OS_lab5_CS_UI.Properties.Resources.resources
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\obj\x86\Debug\OS_lab5_CS_UI.csproj.GenerateResource.Cache
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\obj\x86\Debug\OS_lab5_CS_UI.exe
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\obj\x86\Debug\OS_lab5_CS_UI.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab5_CS_UI\OS_lab5_CS_UI\obj\x86\Debug\OS_lab5_CS_UI.NativeMethods.resources
