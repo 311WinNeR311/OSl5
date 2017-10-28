@@ -1,0 +1,12 @@
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\bin\x86\Debug\OS_lab_5_CS_UI_dll_2.dll
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\bin\x86\Debug\OS_lab_5_CS_UI_dll_2.pdb
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.dll
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.pdb
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_3_CS_UI.Form1.resources
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.csproj.GenerateResource.Cache
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\bin\x86\Debug\OS_lab_5_CS_UI_dll_2.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\bin\x86\Debug\OS_lab_5_CS_UI_dll_2.pdb
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_3_CS_UI.Form1.resources
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.csproj.GenerateResource.Cache
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.dll
+C:\Users\saveu\Documents\Visual Studio 2017\Projects\OS_lab_5_CS_UI_dll\OS_lab_5_CS_UI_dll_2\obj\x86\Debug\OS_lab_5_CS_UI_dll_2.pdb

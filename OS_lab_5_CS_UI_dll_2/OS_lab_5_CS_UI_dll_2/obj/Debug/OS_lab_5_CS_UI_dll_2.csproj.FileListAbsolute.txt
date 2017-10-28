@@ -1,0 +1,5 @@
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\bin\Debug\OS_lab_5_CS_UI_dll_2.dll
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\bin\Debug\OS_lab_5_CS_UI_dll_2.pdb
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\Debug\OS_lab_5_CS_UI_dll_2.csprojResolveAssemblyReference.cache
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\Debug\OS_lab_5_CS_UI_dll_2.dll
+c:\users\saveu\documents\visual studio 2017\Projects\OS_lab_5_CS_UI_dll_2\OS_lab_5_CS_UI_dll_2\obj\Debug\OS_lab_5_CS_UI_dll_2.pdb
